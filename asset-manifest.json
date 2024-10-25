@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25d8ccb4.css",
+    "main.js": "/static/js/main.e09d72e1.js",
+    "static/media/Signinpagebg.png": "/static/media/Signinpagebg.2dd6a8472c2768de2326.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/404.png": "/static/media/404.02b67ab4a45bad3a4704.png",
+    "static/media/Group3.png": "/static/media/Group3.682e13931e632e7a7909.png",
+    "static/media/wLogo.jpg": "/static/media/wLogo.d74719fb6ef803d97496.jpg",
+    "static/media/Group2.png": "/static/media/Group2.ca5a50a8a5eb6f19154f.png",
+    "static/media/Group1.png": "/static/media/Group1.1d221b191e8e7b2b581e.png",
+    "static/media/sample.xlsx": "/static/media/sample.e0371d5c792edb8146cb.xlsx",
+    "index.html": "/index.html",
+    "static/media/caretWhite.svg": "/static/media/caretWhite.302f4ab79087fe23a3da.svg",
+    "main.25d8ccb4.css.map": "/static/css/main.25d8ccb4.css.map",
+    "main.e09d72e1.js.map": "/static/js/main.e09d72e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25d8ccb4.css",
+    "static/js/main.e09d72e1.js"
+  ]
+}
